@@ -1084,6 +1084,10 @@ Sign up via [GitHub Sponsors](https://github.com/sponsors/rohitg00).
 ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
 ```
 
+## gitstar
+
+[![gitstar Chart](https://api.star-history.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=date&legend=top-left)](https://www.gitstar.co.kr/#rohitg00/ai-engineering-from-scratch&type=date&legend=top-left)
+
 ## Star history
 
 <a href="https://star-history.com/#rohitg00/ai-engineering-from-scratch&Date">
