@@ -1086,16 +1086,8 @@ Sign up via [GitHub Sponsors](https://github.com/sponsors/rohitg00).
 
 ## gitstar
 
-[![gitstar Chart](https://api.star-history.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=date&legend=top-left)](https://www.gitstar.co.kr/#rohitg00/ai-engineering-from-scratch&type=date&legend=top-left)
+[![gitstar Chart](https://api.gitstar.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=date&legend=top-left)](https://www.gitstar.co.kr/#rohitg00/ai-engineering-from-scratch&type=date&legend=top-left)
 
-## Star history
-
-<a href="https://star-history.com/#rohitg00/ai-engineering-from-scratch&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=Date&theme=dark">
-    <img alt="Star history" src="https://api.star-history.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=Date" width="100%">
-  </picture>
-</a>
 
 If this manual helped you, star the repo. It keeps the project alive.
 
